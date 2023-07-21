@@ -13,10 +13,12 @@
 - 💬 Ask me about DSA
 - 📫 How to reach me: avaniambekar2003@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Loves Anime and K-Drama
+- ⚡ Fun fact: Love Anime and K-Drama
 
-### IDE and Tools I have Used:
+<h3 align="left">Languages and Tools:</h3>
 <div>
+ <p align="left">  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <img height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
  <img height="40" width="40" src="https://img.icons8.com/color/50/000000/git.png"/>
@@ -32,3 +34,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/avani-ambekar-96479b22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avani-ambekar-96479b22a" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/avani_2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="avani_2003" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/avaniambekar2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avaniambekar2003" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Avani_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Avani_2003" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/avaniambekar2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="avaniambekar2003" height="30" width="40" /></a>
+
