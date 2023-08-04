@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Avani-2003" alt="Avani-2003" /></a> </p>
 
 - 🔭 I’m currently working on UI/UX
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Web Development
 - 💬 Ask me about DSA
 - 📫 How to reach me: avaniambekar2003@gmail.com
 - 😄 Pronouns: She/Her
